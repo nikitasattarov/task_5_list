@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1572954211 source:c:\users\user\prog\3 sem\list\main.cpp
+	<iostream>
+	<list>
+	<algorithm>
+	<set>
+	<iterator>
+
+1590457478 source:c:\users\rog\desktop\Григорьев_Прога\list\main.cpp
+	<iostream>
+	<list>
+	<algorithm>
+	<set>
+	<iterator>
+	<string>
+	<cstdlib>
+	<locale.h>
+	<ctime>
+	<map>
+
